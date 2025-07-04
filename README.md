@@ -1,4 +1,4 @@
-# TT-W32TimeManager
+# TA-W32TimeManager
 
 W32Time（Windows Time サービス）を制御・監視するためのツールです。  
 C# / WPF で開発されており、GUIからサービスの開始・停止、時刻の同期が可能です。
@@ -20,7 +20,7 @@ Visual Studio でソリューションファイルを開き、ビルドしてく
 
 ## アプリ画面
 
-![TT-W32TimeManagerのスクリーンショットです](docs/screenshot.png)
+![TA-W32TimeManagerのスクリーンショットです](docs/screenshot.png)
 
 ## 📝 License
 
